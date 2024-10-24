@@ -9,6 +9,7 @@ Recommends songs based on mode
 - Powerlifter: Warmup/Light workout (10 min) (120BPM) -> Rest (2 min) (100BPM) -> Heavy workout (5 min) (140BPM) -> Rest (2 min) (100 BPM)  or draw a custom chart/preset
 - Educates users of benefits and importance of BDNF, the effects of music while running,
 
+Might be accessible to non-Premium users if playing preview only??
 
 # Sort Your Music
 
